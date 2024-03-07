@@ -1,0 +1,60 @@
+
+body {
+    margin: 0;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.topnav  {
+    overflow:hidden;
+    background-color: BLACK;
+}
+
+.topnav a {
+    float:right;
+    color: #de1eb5;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav a:active{
+    color: crimson;
+    background-color: black;
+}
+
+
+
+.BUYTICKET{
+    background-color:black;
+   
+ display: flex;
+ justify-content: center;
+  
+
+}
+ .BUYTICKET A{
+    color: rgb(241, 21, 142);
+    text-decoration: none;
+    display: flex;
+    justify-content:flex-end;
+    padding: auto;
+    font-size:x-large;
+
+ }a:hover {
+    background-color:#de1eb5;
+    color: black;
+
+    
+
+}
+.details h2{
+    display: inline;
+    background-color: black;
+    color: #de1eb5;
+}
